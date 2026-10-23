@@ -22,12 +22,13 @@ A Python project that checks website availability, captures HTTP status codes, m
 ## Project Structure
 
 ```text
-website-uptime-checker/
+website_uptime_checker/
+├── data/
+│   ├── url_list.csv
+│   └── website_status.csv
 ├── main.py
 ├── test_main.py
 ├── requirements.txt
-├── data/url_list.csv
-├── data/website_status.csv
 └── README.md
 ```
 
@@ -38,7 +39,7 @@ website-uptime-checker/
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/shikha-dave/website-uptime-checker.git
    ```
 
 2. Navigate to the project directory:
