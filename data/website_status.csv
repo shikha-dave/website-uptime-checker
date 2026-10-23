@@ -1,0 +1,40 @@
+url,status_code,response_time_ms,error,timestamp
+https://httpbin.org/status/200,200,1337.63,,2026-10-19 11:21:51
+https://httpbin.org/status/404,404,1193.84,HTTP status code: 404,2026-10-19 11:21:52
+https://httpbin.org/status/500,500,1198.51,HTTP status code: 500,2026-10-19 11:21:53
+https://httpbin.org/status/200,200,1222.65,,2026-10-19 11:22:20
+https://httpbin.org/status/404,404,1128.76,HTTP status code: 404,2026-10-19 11:22:21
+https://httpbin.org/status/500,500,1180.4,HTTP status code: 500,2026-10-19 11:22:22
+https://httpbin.org/status/200,,,"HTTPSConnectionPool(host='httpbin.org', port=443): Max retries exceeded with url: /status/200 (Caused by ConnectTimeoutError(<HTTPSConnection(host='httpbin.org', port=443) at 0x228d12386e0>, 'Connection to httpbin.org timed out. (connect timeout=0.001)'))",2026-10-19 11:32:12
+https://httpbin.org/status/404,,,"HTTPSConnectionPool(host='httpbin.org', port=443): Max retries exceeded with url: /status/404 (Caused by ConnectTimeoutError(<HTTPSConnection(host='httpbin.org', port=443) at 0x228d11e6710>, 'Connection to httpbin.org timed out. (connect timeout=0.001)'))",2026-10-19 11:32:12
+https://httpbin.org/status/500,,,"HTTPSConnectionPool(host='httpbin.org', port=443): Max retries exceeded with url: /status/500 (Caused by ConnectTimeoutError(<HTTPSConnection(host='httpbin.org', port=443) at 0x228d11e6fd0>, 'Connection to httpbin.org timed out. (connect timeout=0.001)'))",2026-10-19 11:32:12
+https://httpbin.org/status/200,200,1123.94,,2026-10-19 11:32:41
+https://httpbin.org/status/404,404,1242.95,HTTP status code: 404,2026-10-19 11:32:43
+https://httpbin.org/status/500,500,1142.31,HTTP status code: 500,2026-10-19 11:32:44
+https://httpbin.org/status/200,200,1161.25,,2026-10-19 11:32:56
+https://httpbin.org/status/404,404,1148.81,HTTP status code: 404,2026-10-19 11:32:58
+https://httpbin.org/status/500,500,1128.94,HTTP status code: 500,2026-10-19 11:32:59
+https://httpbin.org/status/200,200,1280.01,,2026-10-19 11:33:09
+https://httpbin.org/status/404,404,1170.62,HTTP status code: 404,2026-10-19 11:33:10
+https://httpbin.org/status/500,500,1111.25,HTTP status code: 500,2026-10-19 11:33:11
+https://httpbin.org/status/200,200,1360.76,,2026-10-19 11:46:29
+https://httpbin.org/status/404,404,1190.77,HTTP status code: 404,2026-10-19 11:46:30
+https://httpbin.org/status/500,500,1198.47,HTTP status code: 500,2026-10-19 11:46:31
+https://httpbin.org/status/200,200,2327.08,,2026-10-22 22:40:33
+https://httpbin.org/status/404,404,1136.56,HTTP status code: 404,2026-10-22 22:40:34
+https://httpbin.org/status/500,500,1432.15,HTTP status code: 500,2026-10-22 22:40:35
+https://httpbin.org/status/200,200,1217.75,,2026-10-22 22:41:01
+https://httpbin.org/status/404,404,1128.46,HTTP status code: 404,2026-10-22 22:41:02
+https://httpbin.org/status/500,500,1214.93,HTTP status code: 500,2026-10-22 22:41:03
+https://httpbin.org/status/200,200,1194.73,,2026-10-22 22:41:04
+https://httpbin.org/status/404,404,1140.63,HTTP status code: 404,2026-10-22 22:41:06
+https://httpbin.org/status/500,500,1159.72,HTTP status code: 500,2026-10-22 22:41:07
+https://httpbin.org/status/200,200,1173.28,,2026-10-22 22:44:30
+https://httpbin.org/status/404,404,1160.48,HTTP status code: 404,2026-10-22 22:44:32
+https://httpbin.org/status/500,500,1095.84,HTTP status code: 500,2026-10-22 22:44:33
+https://httpbin.org/status/200,200,1264.67,,2026-10-22 22:44:47
+https://httpbin.org/status/404,404,1189.23,HTTP status code: 404,2026-10-22 22:44:48
+https://httpbin.org/status/500,500,1142.17,HTTP status code: 500,2026-10-22 22:44:49
+https://httpbin.org/status/200,200,1205.94,,2026-10-22 23:15:44
+https://httpbin.org/status/404,404,1204.33,HTTP status code: 404,2026-10-22 23:15:45
+https://httpbin.org/status/500,500,1163.63,HTTP status code: 500,2026-10-22 23:15:46
